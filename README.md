@@ -37,3 +37,17 @@ print(f1 >= f2)  # Output: True
 # String representation
 print(f"Fraction 1: {f1}")  # Output: Fraction 1: (3/4)
 print(f"Fraction 2: {f2}")  # Output: Fraction 2: (1/2)
+```
+
+**Further Enhancements:**
+
+- **Mixed Number Support:** Extend the class to handle mixed numbers and conversion between improper and mixed forms.
+- **Error Handling:** Incorporate error handling for invalid inputs.
+
+**Contribution:**
+
+Feel free to fork this repository, make improvements, and submit pull requests to contribute to the project's development.
+
+**License**:
+
+This project is licensed under the [MIT License](https://opensource.org/license/MIT).
