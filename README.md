@@ -5,10 +5,10 @@ This project implements a custom `Fraction` class in Python using Object-Oriente
 **Key Features:**
 
 - **Initialization:** Construct `Fraction` objects with numerator and denominator values. Defaults to 1 for both if not provided.
-- **Arithmetic Operations:** Support addition, subtraction, multiplication, and division operations with other `Fraction` objects or integers.
+- **Arithmetic Operations:** Support addition, subtraction, multiplication, and division operations with other `Fraction` objects.
 - **String Representation:** Provide a clear and human-readable string representation for each `Fraction` object.
 - **Comparison operators:** Equal to, greater than, less than, greater than or equal to, less than or equal to.
-- **Automatic simplification:** Fractions are reduced to their simplest form automatically to their lowest terms using the greatest common divisor (GCD) algorithm..
+- **Automatic simplification:** Fractions are reduced to their simplest form automatically to their lowest terms using the greatest common divisor (GCD) algorithm.
 - **Error handling:** Prevents division by zero.
 
 **Installation:**
